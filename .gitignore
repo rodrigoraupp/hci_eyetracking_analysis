@@ -1,2 +1,5 @@
 # ignore only at root
 /data/
+
+# ignore only at root
+/graphs/
